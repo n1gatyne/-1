@@ -1,6 +1,0 @@
-Yuri 600.0 450.0
-Maria 500.0 200.0
-Evgenii 0.0 450.0
-
-Evgenii 150.0 Yuri
-Evgenii 300.0 Maria
